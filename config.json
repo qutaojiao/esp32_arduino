@@ -1,0 +1,48 @@
+{
+    "name": "esp32_arduino",
+    "author": "qutaojiao",
+    "email": "admin@qutaojiao.com",
+    "url":"www.qutaojiao.com",
+    "ownership": "official",
+    "board": "esp32:esp32:esp32", 
+    "language": "zh-hans", 
+    "profile": "arduino_esp32", 
+    "blocks": [
+        "ethernet", 
+        "pins", 
+        "inout", 
+        "control", 
+        "math", 
+        "text", 
+        "lists", 
+        "logic", 
+        "communicate", 
+        "storage", 
+        "sensor", 
+        "variables", 
+        "procedures", 
+        "serial", 
+        "display", 
+        "actuator"
+    ], 
+    "generators": [
+        "ethernet", 
+        "pins", 
+        "inout", 
+        "control", 
+        "math", 
+        "text", 
+        "lists", 
+        "logic", 
+        "communicate", 
+        "storage", 
+        "sensor", 
+        "variables", 
+        "procedures", 
+        "serial", 
+        "actuator"
+    ],
+    "css":[
+        "color"
+    ]
+ }
